@@ -61,4 +61,4 @@ POCKETPILLS is an online medical facility where our registered users will get th
 ![Image description](https://github.com/rachit18404/hospital-management-with-chat-implementation/blob/master/assets/img11.png)
 
 ER DIAGRAM
-![Image description](https://github.com/rachit18404/Phospital-management-with-chat-implementation/blob/master/assets/er.png)
+![Image description](https://github.com/rachit18404/hospital-management-with-chat-implementation/blob/master/assets/er.png)
