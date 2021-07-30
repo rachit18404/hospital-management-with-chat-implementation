@@ -18,8 +18,8 @@
             
 2. Change the password at 2 places: 
 
-    *   Line 84 of [my_project/settings.py](https://github.com/rachit18404/PocketPills/blob/master/my_project/my_project/settings.py) 
-    *   Line 8 of [articles/views.py](https://github.com/rachit18404/PocketPills/blob/master/my_project/articles/views.py)    
+    *   Line 84 of [my_project/settings.py](https://github.com/rachit18404/hospital-management-with-chat-implementation/blob/master/my_project/my_project/settings.py) 
+    *   Line 8 of [articles/views.py](https://github.com/rachit18404/hospital-management-with-chat-implementation/blob/master/my_project/my_project/views.py)    
        
 3. Run `python manage.py runserver`
 
@@ -48,17 +48,17 @@ POCKETPILLS is an online medical facility where our registered users will get th
 * **Diagnostic Labs** needing access to a patient’s medical details and the required lab facility needed. 
 
 
-![Image description](https://github.com/rachit18404/PocketPills/blob/master/assets/img1.png)
-![Image description](https://github.com/rachit18404/PocketPills/blob/master/assets/img2.png)
-![Image description](https://github.com/rachit18404/PocketPills/blob/master/assets/img3.png)
-![Image description](https://github.com/rachit18404/PocketPills/blob/master/assets/img4.png)
-![Image description](https://github.com/rachit18404/PocketPills/blob/master/assets/img5.png)
-![Image description](https://github.com/rachit18404/PocketPills/blob/master/assets/img6.png)
-![Image description](https://github.com/rachit18404/PocketPills/blob/master/assets/img7.png)
-![Image description](https://github.com/rachit18404/PocketPills/blob/master/assets/img8.png)
-![Image description](https://github.com/rachit18404/PocketPills/blob/master/assets/img9.png)
-![Image description](https://github.com/rachit18404/PocketPills/blob/master/assets/img10.png)
-![Image description](https://github.com/rachit18404/PocketPills/blob/master/assets/img11.png)
+![Image description](https://github.com/rachit18404/hospital-management-with-chat-implementation/blob/master/assets/img1.png)
+![Image description](https://github.com/rachit18404/hospital-management-with-chat-implementation/blob/master/assets/img2.png)
+![Image description](https://github.com/rachit18404/hospital-management-with-chat-implementation/blob/master/assets/img3.png)
+![Image description](https://github.com/rachit18404/hospital-management-with-chat-implementation/blob/master/assets/img4.png)
+![Image description](https://github.com/rachit18404/hospital-management-with-chat-implementation/blob/master/assets/img5.png)
+![Image description](https://github.com/rachit18404/hospital-management-with-chat-implementation/blob/master/assets/img6.png)
+![Image description](https://github.com/rachit18404/hospital-management-with-chat-implementation/blob/master/assets/img7.png)
+![Image description](https://github.com/rachit18404/hospital-management-with-chat-implementation/blob/master/assets/img8.png)
+![Image description](https://github.com/rachit18404/hospital-management-with-chat-implementation/blob/master/assets/img9.png)
+![Image description](https://github.com/rachit18404/hospital-management-with-chat-implementation/blob/master/assets/img10.png)
+![Image description](https://github.com/rachit18404/hospital-management-with-chat-implementation/blob/master/assets/img11.png)
 
 ER DIAGRAM
-![Image description](https://github.com/rachit18404/PocketPills/blob/master/assets/er.png)
+![Image description](https://github.com/rachit18404/Phospital-management-with-chat-implementation/blob/master/assets/er.png)
